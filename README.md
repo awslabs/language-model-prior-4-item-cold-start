@@ -1,11 +1,6 @@
-## My Project
+## Language Model Prior for Item Cold Start
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Codebase for the work Language Model Prior for Item Cold Start.
 
 ## Security
 
